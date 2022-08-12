@@ -7,4 +7,4 @@ I am Onan Mulumba, a Bioinformatics PhD student at Makerere University. I am lea
 ---
 This is nice! I am :Happy:
 
-![My photo](https://www.flickr.com/photos/faonews/9771964493/)
+![My photo](https://avatars.sched.co/9/5a/11156138/avatar.jpg?79d)
