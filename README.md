@@ -5,6 +5,6 @@ I am Onan Mulumba, a Bioinformatics PhD student at Makerere University. I am lea
 > - Creating branches
 > - Making commits
 ---
-This is nice! I am :Happy:
+This is nice! I am 😄
 
 ![My photo](https://avatars.sched.co/9/5a/11156138/avatar.jpg?79d)
